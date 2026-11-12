@@ -53,22 +53,10 @@ A tool for creating and managing Loadstring scripts.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nalaneo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=00D9FF&icon_color=00D9FF)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Nalaneo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=00D9FF&icon_color=00D9FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nalaneo&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=00D9FF)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nalaneo&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090F&title_color=00D9FF)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nalaneo&theme=tokyonight&hide_border=true&background=09090F&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:101B35,100:09090F&height=100&section=footer" width="100%" />
-
-**NalaNeo — Beyond Creativity, Into Technology.**
-
-*Thanks for visiting my digital space.*
 
 </div>
